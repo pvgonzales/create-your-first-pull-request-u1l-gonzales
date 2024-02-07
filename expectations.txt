@@ -1,3 +1,6 @@
 I expect that CMSC 100 will help us learn deeper on various languages and frameworks like React.js. 
 Additionally, I expect that the course will help us understand concepts like functional designs in web, its accessbility, and advantages of backend development. 
 Lastly, I expect that we will be able to develop a dynamic, interactive, and an 'eye-catching' website. :)
+
+Angel Laxamana (2022-13386)
+I totally agree with this, although I know I will be facing difficulties again in the creative part.
